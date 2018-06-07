@@ -2,21 +2,21 @@
 
 ### For The Mind...
 
-- [ ] Read <b><i>Code Complete</i></b> by Steve McConnel 
-- [ ] Read <b><i>Clean Code</i></b> by Robert C. Martin
-- [ ] Complete Udacity specialization on iOS development
-- [ ] Write 10 blog posts about iOS development
-- [ ] Push an iOS app to the App Store
-- [ ] Build something cool with Arduino
+- [ ] Read <b><i>Code Complete</i></b> by Steve McConnel <img align="right" src="http://progressed.io/bar/48" >
+- [ ] Read <b><i>Clean Code</i></b> by Robert C. Martin <img align="right" src="http://progressed.io/bar/48" >
+- [ ] Complete Udacity specialization on iOS development <img align="right" src="http://progressed.io/bar/48" >
+- [ ] Write 10 blog posts about iOS development <img align="right" src="http://progressed.io/bar/48" >
+- [ ] Push an iOS app to the App Store <img align="right" src="http://progressed.io/bar/48" >
+- [ ] Build something cool with Arduino <img align="right" src="http://progressed.io/bar/48" >
 
 ### For The Body...
 
-- [ ] Overhead Press: 135lbs <img align="right" src="http://progressed.io/bar/48" >
-- [ ] Inclinde Bench Press: 185lbs <img align="center" src="http://progressed.io/bar/48" >
-- [ ] Squat: 225lbs <img align="right" src="http://progressed.io/bar/48" >
-- [ ] Pull up: 25lbs <img align="right" src="http://progressed.io/bar/48" >
+- [ ] Overhead Press: 135lbs <img align="right" src="http://progressed.io/bar/70" >
+- [ ] Inclinde Bench Press: 185lbs <img align="right" src="http://progressed.io/bar/75" >
+- [ ] Squat: 225lbs <img align="right" src="http://progressed.io/bar/64" >
+- [ ] Pull up: 25lbs <img align="right" src="http://progressed.io/bar/10" >
 
 ### For The Spirit...
 
-- [ ] Perform at the Canada Salsa & Bachata Congress
-- [ ] Pick up meditation
+- [ ] Perform at the Canada Salsa & Bachata Congress <img align="right" src="http://progressed.io/bar/48" >
+- [ ] Pick up meditation <img align="right" src="http://progressed.io/bar/48" >
