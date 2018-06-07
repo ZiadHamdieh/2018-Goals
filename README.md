@@ -2,7 +2,7 @@
 
 ### For The Mind...
 
-- [ ] Read <b><i>Code Complete</i></b> by Steve McConnel
+- [ ] Read <b><i>Code Complete</i></b> by Steve McConnel 
 - [ ] Read <b><i>Clean Code</i></b> by Robert C. Martin
 - [ ] Complete Udacity specialization on iOS development
 - [ ] Write 10 blog posts about iOS development
@@ -11,7 +11,9 @@
 
 ### For The Body...
 
-- [ ] Overhead Press: 135lbs
+- [ ] Overhead Press: 135lbs 
+
+![Progress](http://progressed.io/bar/48)
 - [ ] Inclinde Bench Press: 185lbs
 - [ ] Squat: 225lbs
 - [ ] Pull up: 25lbs
