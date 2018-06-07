@@ -18,5 +18,5 @@
 
 ### For The Spirit...
 
-- [ ] Perform at the Canada Salsa & Bachata Congress <img align="right" src="http://progressed.io/bar/48" >
-- [ ] Pick up meditation <img align="right" src="http://progressed.io/bar/48" >
+- [ ] Perform at the Canada Salsa & Bachata Congress <img align="right" src="http://progressed.io/bar/0" >
+- [ ] Pick up meditation <img align="right" src="http://progressed.io/bar/0" >
