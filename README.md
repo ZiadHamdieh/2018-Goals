@@ -20,4 +20,4 @@
 
 - [ ] Perform at the Canada Salsa & Bachata Congress (October) <img align="right" src="http://progressed.io/bar/0" >
 - [ ] Pick up meditation <img align="right" src="http://progressed.io/bar/0" >
-- [ ] Help 10 poor programmers solve their problems on Stack Overflow
+- [ ] Help 10 poor programmers solve their problems on Stack Overflow <img align="right" src="http://progressed.io/bar/0" >
