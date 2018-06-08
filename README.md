@@ -3,7 +3,7 @@
 ### For The Mind...
 
 - [ ] Read <b><i>Code Complete</i></b> by Steve McConnel <img align="right" src="http://progressed.io/bar/0" >
-- [ ] Read <b><i>Clean Code</i></b> by Robert C. Martin <img align="right" src="http://progressed.io/bar/10" >
+- [ ] Read <b><i>Clean Code</i></b> by Robert C. Martin <img align="right" src="http://progressed.io/bar/13" >
 - [ ] Complete Udacity specialization on iOS development <img align="right" src="http://progressed.io/bar/0" >
 - [ ] Write 10 blog posts about iOS development <img align="right" src="http://progressed.io/bar/0" >
 - [ ] Push an iOS app to the App Store <img align="right" src="http://progressed.io/bar/0" >
@@ -13,7 +13,7 @@
 
 - [ ] Overhead Press: 135lbs <img align="right" src="http://progressed.io/bar/70" >
 - [ ] Inclinde Bench Press: 185lbs <img align="right" src="http://progressed.io/bar/75" >
-- [ ] Squat: 225lbs <img align="right" src="http://progressed.io/bar/64" >
+- [ ] Squat: 225lbs <img align="right" src="http://progressed.io/bar/65" >
 - [ ] Pull up: 25lbs <img align="right" src="http://progressed.io/bar/15" >
 
 ### For The Spirit...
