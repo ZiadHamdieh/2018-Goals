@@ -14,7 +14,7 @@
 - [ ] Overhead Press: 135lbs <img align="right" src="http://progressed.io/bar/70" >
 - [ ] Inclinde Bench Press: 185lbs <img align="right" src="http://progressed.io/bar/75" >
 - [ ] Squat: 225lbs <img align="right" src="http://progressed.io/bar/64" >
-- [ ] Pull up: 25lbs <img align="right" src="http://progressed.io/bar/10" >
+- [ ] Pull up: 25lbs <img align="right" src="http://progressed.io/bar/15" >
 
 ### For The Spirit...
 
