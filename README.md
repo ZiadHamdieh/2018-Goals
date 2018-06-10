@@ -4,7 +4,7 @@
 
 - [ ] Read <b><i>Clean Code</i></b> by Robert C. Martin <img align="right" src="http://progressed.io/bar/13" >
 - [ ] Read <b><i>Code Complete</i></b> by Steve McConnel <img align="right" src="http://progressed.io/bar/0" >
-- [ ] Complete Udacity specialization on iOS development <img align="right" src="http://progressed.io/bar/0" >
+- [ ] Complete Coursera specialization on iOS development <img align="right" src="http://progressed.io/bar/0" >
 - [ ] Write 10 blog posts about iOS development <img align="right" src="http://progressed.io/bar/0" >
 - [ ] Push an iOS app to the App Store <img align="right" src="http://progressed.io/bar/0" >
 - [ ] Build something cool with Arduino <img align="right" src="http://progressed.io/bar/0" >
