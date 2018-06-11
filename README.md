@@ -1,6 +1,6 @@
 # Personal Goals - 2018 Edition
 
-Personal goals to be completed by <i>11:59:59</i> on December 31st, 2018. No excuses!
+Personal goals to be completed by <i>11:59:59</i> on December 31<sup>st</sup>, 2018. No excuses!
 
 ### For The Mind...
 
