@@ -22,5 +22,5 @@
 - [x] Read <b><i>Mastery</i></b> by Robert Greene <img align="right" src="http://progressed.io/bar/100" >
 - [ ] Perform at the Canada Salsa & Bachata Congress (October) <img align="right" src="http://progressed.io/bar/0" >
 - [ ] Help 10 poor programmers solve their problems on Stack Overflow <img align="right" src="http://progressed.io/bar/0" >
-- [x] Save mouse from sticky trap (ok, I'll admit I wasn't planning on this) <img align="right" src="http://progressed.io/bar/100" >
+- [x] Save mouse from sticky trap (ok, I'll admit I wasn't planning this one) <img align="right" src="http://progressed.io/bar/100" >
 
