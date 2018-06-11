@@ -1,5 +1,7 @@
 # Personal Goals - 2018 Edition
 
+Personal goals to be completed by 11:59:59 on December 31st, 2018. No excuses!
+
 ### For The Mind...
 
 - [ ] Read <b><i>Clean Code</i></b> by Robert C. Martin <img align="right" src="http://progressed.io/bar/16" >
