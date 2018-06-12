@@ -13,10 +13,10 @@ Personal goals to be completed by <i>11:59:59</i> on December 31<sup>st</sup>, 2
 
 ### For The Body...
 
-- [ ] Overhead Press: 135lbs <img align="right" src="http://progressed.io/bar/70" >
+- [ ] Overhead Press: 135lbs <img align="right" src="http://progressed.io/bar/71" >
 - [ ] Inclinde Bench Press: 185lbs <img align="right" src="http://progressed.io/bar/75" >
 - [ ] Squat: 225lbs <img align="right" src="http://progressed.io/bar/65" >
-- [ ] Pull up: 25lbs <img align="right" src="http://progressed.io/bar/23" >
+- [ ] Pull up: 25lbs <img align="right" src="http://progressed.io/bar/25" >
 
 ### For The Spirit...
 
