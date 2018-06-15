@@ -21,7 +21,7 @@ Personal goals to be completed by <i>11:59:59</i> on December 31<sup>st</sup>, 2
 ### For The Spirit...
 
 - [ ] Pick up meditation <img align="right" src="http://progressed.io/bar/0" >
-- [x] Read <b><i>Mastery</i></b> by Robert Greene (Summary <a href="www.github.com/ZiadHamdieh/Mastery"> here</a>.) <img align="right" src="http://progressed.io/bar/100" >
+- [x] Read <b><i>Mastery</i></b> by Robert Greene (Summary <a href="www.github.com/ZiadHamdieh/Mastery"> here</a>) <img align="right" src="http://progressed.io/bar/100" >
 - [ ] Read <b><i>The Subtle Art of Not Giving a F*ck</i></b> by Mark Manson <img align="right" src="http://progressed.io/bar/0" >
 
 - [ ] Perform at the Canada Salsa & Bachata Congress (October) <img align="right" src="http://progressed.io/bar/0" >
