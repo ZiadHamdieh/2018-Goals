@@ -17,7 +17,7 @@ I am keeping this public so that if my discipline fails, social pressure will ke
 ### For The Body...
 
 - [ ] Overhead Press: 135lbs <img align="right" src="http://progressed.io/bar/71" >
-- [ ] Incline Bench Press: 185lbs <img align="right" src="http://progressed.io/bar/76" >
+- [ ] Incline Bench Press: 185lbs <img align="right" src="http://progressed.io/bar/75" >
 - [ ] Squat: 225lbs <img align="right" src="http://progressed.io/bar/65" >
 - [ ] Pull up: 25lbs <img align="right" src="http://progressed.io/bar/30" >
 
