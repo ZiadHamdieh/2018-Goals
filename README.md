@@ -9,7 +9,7 @@ I am keeping this public so that if my discipline fails, social pressure will ke
 
 - [ ] Read <b><i>Clean Code</i></b> by Robert C. Martin <img align="right" src="http://progressed.io/bar/16" >
 - [ ] Read <b><i>Code Complete</i></b> by Steve McConnel <img align="right" src="http://progressed.io/bar/0" >
-- [ ] Complete Coursera specialization on iOS development <img align="right" src="http://progressed.io/bar/33" >
+- [ ] Complete Coursera specialization on iOS development <img align="right" src="http://progressed.io/bar/34" >
 - [ ] Write 10 blog posts about iOS development <img align="right" src="http://progressed.io/bar/0" >
 - [ ] Publish an iOS app to the App Store <img align="right" src="http://progressed.io/bar/0" >
 - [ ] Build something cool with Arduino <img align="right" src="http://progressed.io/bar/0" >
@@ -19,7 +19,7 @@ I am keeping this public so that if my discipline fails, social pressure will ke
 - [ ] Overhead Press: 135lbs <img align="right" src="http://progressed.io/bar/71" >
 - [ ] Incline Bench Press: 185lbs <img align="right" src="http://progressed.io/bar/75" >
 - [ ] Squat: 225lbs <img align="right" src="http://progressed.io/bar/65" >
-- [ ] Pull up: 25lbs <img align="right" src="http://progressed.io/bar/30" >
+- [ ] Pull up: 25lbs <img align="right" src="http://progressed.io/bar/33" >
 
 ### For The Spirit...
 
