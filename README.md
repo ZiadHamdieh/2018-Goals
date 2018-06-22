@@ -28,7 +28,7 @@ I am keeping this public so that if my discipline fails, social pressure will ke
 - [x] Read <b><i>The Subtle Art of Not Giving a F*ck</i></b> by Mark Manson <img align="right" src="http://progressed.io/bar/100" >
 - [x] Read <b><i>Extreme Ownership: How US Navy Seals Lead and Win</i></b> by Jocko Willink & Leif Babin <img align="right" src="http://progressed.io/bar/100" >
 
-- [ ] Perform at the Canada Salsa & Bachata Congress (October) <img align="right" src="http://progressed.io/bar/0" >
+- [ ] Perform at the Canada Salsa & Bachata Congress (October) <img align="right" src="http://progressed.io/bar/0">
 - [ ] Help 10 poor programmers solve their problems on Stack Overflow <img align="right" src="http://progressed.io/bar/0" >
 - [x] Save mouse from sticky trap (ok, I wasn't planning this one) <img align="right" src="http://progressed.io/bar/100" >
 
