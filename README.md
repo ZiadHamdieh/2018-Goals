@@ -9,7 +9,7 @@ I am keeping this public so that if my discipline fails, social pressure will ke
 
 - [ ] Read <b><i>Clean Code</i></b> by Robert C. Martin <img align="right" src="http://progressed.io/bar/16" >
 - [ ] Read <b><i>Code Complete</i></b> by Steve McConnel <img align="right" src="http://progressed.io/bar/0" >
-- [ ] Complete Coursera specialization on iOS development <img align="right" src="http://progressed.io/bar/34" >
+- [ ] Complete Coursera specialization on iOS development <img align="right" src="http://progressed.io/bar/44" >
 - [ ] Write 10 blog posts about iOS development <img align="right" src="http://progressed.io/bar/0" >
 - [ ] Publish an iOS app to the App Store <img align="right" src="http://progressed.io/bar/0" >
 - [ ] Build something cool with Arduino <img align="right" src="http://progressed.io/bar/0" >
