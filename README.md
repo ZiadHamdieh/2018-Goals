@@ -15,6 +15,7 @@ I am keeping this public so that if my discipline fails, social pressure will ke
 - [ ] Build something cool with Arduino <img align="right" src="http://progressed.io/bar/0" >
 
 ### For The Body...
+All lifts below are for 3 sets, 5 repetitions per set:
 
 - [ ] Overhead Press: 135lbs <img align="right" src="http://progressed.io/bar/71" >
 - [ ] Incline Bench Press: 185lbs <img align="right" src="http://progressed.io/bar/75" >
