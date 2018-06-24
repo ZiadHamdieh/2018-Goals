@@ -19,6 +19,7 @@ All lifts below are for 3 sets, 5 repetitions per set:
 
 - [ ] Overhead Press: 135lbs <img align="right" src="http://progressed.io/bar/71" >
 - [ ] Incline Bench Press: 185lbs <img align="right" src="http://progressed.io/bar/75" >
+- [ ] Weighted Push Ups: 45lbs <img align="right" src="http://progressed.io/bar/70" >
 - [ ] Squat: 225lbs <img align="right" src="http://progressed.io/bar/65" >
 - [ ] Pull up: 25lbs <img align="right" src="http://progressed.io/bar/34" >
 
