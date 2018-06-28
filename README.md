@@ -7,7 +7,7 @@ I am keeping this public so that if my discipline fails, social pressure will ke
 
 ### For The Mind...
 
-- [ ] Read <b><i>Clean Code</i></b> by Robert C. Martin <img align="right" src="http://progressed.io/bar/16" >
+- [ ] Read <b><i>Clean Code</i></b> by Robert C. Martin <img align="right" src="http://progressed.io/bar/20" >
 - [ ] Read <b><i>Code Complete</i></b> by Steve McConnel <img align="right" src="http://progressed.io/bar/0" >
 - [ ] Complete Coursera specialization on iOS development <img align="right" src="http://progressed.io/bar/50" >
 - [ ] Write 10 blog posts about iOS development <img align="right" src="http://progressed.io/bar/0" >
@@ -31,6 +31,6 @@ All lifts below are for 3 sets, 5 repetitions per set:
 - [x] Read <b><i>Extreme Ownership: How US Navy Seals Lead and Win</i></b> by Jocko Willink & Leif Babin <img align="right" src="http://progressed.io/bar/100" >
 
 - [ ] Perform at the Canada Salsa & Bachata Congress (October) <img align="right" src="http://progressed.io/bar/0">
-- [ ] Help 10 poor programmers solve their problems on Stack Overflow <img align="right" src="http://progressed.io/bar/0" >
+- [ ] Help 10 programmers solve their problems on Stack Overflow <img align="right" src="http://progressed.io/bar/0" >
 - [x] Save mouse from sticky trap (ok, I wasn't planning this one) <img align="right" src="http://progressed.io/bar/100" >
 
