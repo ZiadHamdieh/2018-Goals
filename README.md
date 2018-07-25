@@ -7,7 +7,7 @@ I am keeping this public so that if my discipline fails, social pressure will ke
 
 ### For The Mind...
 
-- [ ] Read <b><i>Clean Code</i></b> by Robert C. Martin <img align="right" src="http://progressed.io/bar/24" >
+- [ ] Read <b><i>Clean Code</i></b> by Robert C. Martin <img align="right" src="http://progressed.io/bar/23" >
 - [ ] Read <b><i>Code Complete</i></b> by Steve McConnel <img align="right" src="http://progressed.io/bar/0" >
 - [ ] Complete Coursera specialization on iOS development <img align="right" src="http://progressed.io/bar/50" >
 - [ ] Write 10 blog posts about iOS development <img align="right" src="http://progressed.io/bar/0" >
