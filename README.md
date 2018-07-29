@@ -33,4 +33,3 @@ All lifts are for 3 sets, 5 repetitions per set:
 - [ ] Perform at the Canada Salsa & Bachata Congress (October) <img align="right" src="http://progressed.io/bar/0">
 - [ ] Help 10 programmers solve their problems on Stack Overflow <img align="right" src="http://progressed.io/bar/0" >
 - [x] Save mouse from sticky trap (ok, I wasn't planning this one) <img align="right" src="http://progressed.io/bar/100" >
-
