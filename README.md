@@ -1,4 +1,4 @@
-# Personal Goals - 2018 Edition
+# Personal Goals - 2018
 
 Personal goals to be completed by <i>11:59:59</i> on December 31<sup>st</sup>, 2018.
 Most of these goals were set on the first days of January, but I may also add others that I set during the year.
