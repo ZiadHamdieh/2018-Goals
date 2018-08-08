@@ -1,7 +1,7 @@
 # Personal Goals - 2018
 
 Personal goals to be completed by <i>11:59:59</i> on December 31<sup>st</sup>, 2018.
-Most of these goals were set on the first days of January, but I may also add others that I set during the year.
+Most of these goals were set on the first days of January 2018, but I may also add others that I set during the year.
 
 I am keeping this public so that if my discipline fails, social pressure will keep me on track. <b>No excuses</b>!
 
