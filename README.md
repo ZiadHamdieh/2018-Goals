@@ -26,7 +26,7 @@ All lifts are for 3 sets, 5 repetitions per set:
 ### For The Spirit...
 
 - [ ] Pick up meditation <img align="right" src="http://progressed.io/bar/0" >
-- [x] Read <b><i>Mastery</i></b> by Robert Greene (Summary <a href="www.github.com/ZiadHamdieh/Mastery"> here</a>) <img align="right" src="http://progressed.io/bar/100" >
+- [x] Read <b><i>Mastery</i></b> by Robert Greene <img align="right" src="http://progressed.io/bar/100" >
 - [x] Read <b><i>The Subtle Art of Not Giving a F*ck</i></b> by Mark Manson <img align="right" src="http://progressed.io/bar/100" >
 - [x] Read <b><i>Extreme Ownership: How US Navy Seals Lead and Win</i></b> by Jocko Willink & Leif Babin <img align="right" src="http://progressed.io/bar/100" >
 
