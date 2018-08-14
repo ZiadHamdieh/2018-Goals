@@ -23,6 +23,7 @@ All lifts are for 3 sets, 5 repetitions per set:
 - [ ] Squat: 225lbs <img align="right" src="http://progressed.io/bar/69" >
 - [ ] Weighted Pull ups: 25lbs <img align="right" src="http://progressed.io/bar/37" >
 
+
 ### For The Spirit...
 
 - [ ] Pick up meditation <img align="right" src="http://progressed.io/bar/0" >
