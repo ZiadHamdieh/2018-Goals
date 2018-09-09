@@ -18,7 +18,7 @@ I am keeping this public so that if my discipline fails, social pressure will ke
 All lifts are for 3 sets, 5 repetitions per set:
 
 - [ ] Overhead Press: 135lbs <img align="right" src="http://progressed.io/bar/82" >
-- [ ] Incline Bench Press: 185lbs <img align="right" src="http://progressed.io/bar/80" >
+- [ ] Incline Bench Press: 185lbs <img align="right" src="http://progressed.io/bar/82" >
 - [ ] Weighted Push Ups: 45lbs <img align="right" src="http://progressed.io/bar/75" >
 - [ ] Squat: 225lbs <img align="right" src="http://progressed.io/bar/69" >
 - [ ] Weighted Pull ups: 25lbs <img align="right" src="http://progressed.io/bar/37" >
