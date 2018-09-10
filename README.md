@@ -12,7 +12,7 @@ I am keeping this public so that if my discipline fails, social pressure will ke
 - [ ] Complete Coursera specialization on iOS development <img align="right" src="http://progressed.io/bar/50" >
 - [ ] Write 10 blog posts about iOS development <img align="right" src="http://progressed.io/bar/0" >
 - [ ] Publish an iOS app to the App Store <img align="right" src="http://progressed.io/bar/0" >
-- [ ] Build something cool with Arduino <img align="right" src="http://progressed.io/bar/0" >
+<!-- - [ ] Build something cool with Arduino <img align="right" src="http://progressed.io/bar/0" -->
 
 ### For The Body...
 All lifts are for 3 sets, 5 repetitions per set:
